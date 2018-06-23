@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 风起于青萍之末，浪成于微澜之间。
+keywords: 个人小站，hangyang
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+I'm a new coder.
 
 仰慕「优雅编码的艺术」。
 

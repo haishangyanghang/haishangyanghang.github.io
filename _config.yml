@@ -98,16 +98,16 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: haishangyanghang 
-    repo: haishangyanghang.github.io
+    repo: blog comment
     oauth:
-        client_id: 8b9849ca20531ce8b2ad
-        client_secret: aea5db4d033f438942dea02625c76a785840df78
+        client_id: 16b2283b8066794163b3
+        client_secret: 3445af62a710a80e8d46e7fae7be60b9d78e1c31
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: haishangyanghang
-    repo: haishangyanghang.github.io
-    clientID: 8b9849ca20531ce8b2ad
-    clientSecret: aea5db4d033f438942dea02625c76a785840df78
+    repo: blog comment
+    clientID: 16b2283b8066794163b3
+    clientSecret: 3445af62a710a80e8d46e7fae7be60b9d78e1c31
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 

@@ -6,7 +6,8 @@ baseurl:
 url: https://haishangyanghang.github.io
 date_format: "ordinal"
 title: hangyang
-subtitle: "风起于青萍之末，浪成于微澜之间。"
+# subtitle: "风起于青萍之末，浪成于微澜之间。"
+subtitle: "Too young,too simple.Sometimes,naive."
 description: "hangyang的个人博客"
 keywords: 个人小站，Hang Yang
 timezone: Asia/Shanghai

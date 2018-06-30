@@ -14,6 +14,7 @@ timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
+
 # ---------------- #
 #      Author      #
 # ---------------- #
@@ -126,3 +127,6 @@ simple_jekyll_search:
 # ---------------- #
 google:
     analytics_id: UA-80669434-1
+
+    
+baidu_tongji_id: 351e8adb202cbadc754316f232a48ae
